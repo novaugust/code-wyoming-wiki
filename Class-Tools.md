@@ -25,10 +25,11 @@ We also use Git, in combination with GitHub (see below), to easily share and col
 
 [GitHub][GitHub]
 ==================
+You're looking at it right now!
 From the GitHub website:
     GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over four million people use GitHub to build amazing things together.
 
-GitHub is powered by Git. Git and GitHub combine to keep the world of web development running smoothly. It's a must-know for web developers, and free to use.
+At its core, GitHub is powered by Git. Git and GitHub combine to keep the world of web development running smoothly. It's a must-know for web developers, and free to use.
 
 We use GitHub to share our code with each other, and to collaborate on projects.
 
