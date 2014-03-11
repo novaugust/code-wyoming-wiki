@@ -105,15 +105,15 @@ Out-of-scope Topics
 
 
 
-[tools]: ./tools.md "Class Tools"
-[concepts]: ./core-concepts.md
-[html]: ./html-basics.md
-[design]: ./web-design.md
-[css]: ./css-basics.md
-[img]: ./images.md
-[project]: ./projects.md
-[styling]: ./styling-basics.md
-[pseudo]: ./pseudo-classes.md
-[layout]: ./layout.md
-[selectors]: ./selectors.md
-[styling-advanced]: ./styling-advanced.md
+[tools]: Tools "Class Tools"
+[concepts]: Core-Concepts
+[html]: Html-Fundamentals
+[design]: Web-Design
+[css]: CSS-Basics
+[img]: Images-on-the-Web
+[project]: Project-Management
+[styling]: Styling-Basics
+[pseudo]: Selectors#pseudo-classes
+[layout]: Page Layout
+[selectors]: Selectors
+[styling-advanced]: Advanced-Styling
