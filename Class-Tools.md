@@ -1,11 +1,9 @@
-Class Tools
-=================
 [Google Chrome][Chrome]
----------------
+==================
 A browser with powerful developer tools that help us see inside our code.
 
 [Brackets][Brackets]
-----------
+==================
 A web development IDE that plugs right into Chrome. We additionally use the following extensions.
 
 Plugins we use:
@@ -19,14 +17,14 @@ Plugins we use:
    Integrates Git(below) with Brackets
 
 [Git][Git]
-----------
+==================
 Git is a popular version control tool that every web developer needs to know how to use.
 
 We use Git to keep track of our projects' histories. That allows us to try new things without worrying about breaking something that works.
 We also use Git, in combination with GitHub (see below), to easily share and collaborate on our projects.
 
 [GitHub][GitHub]
------------
+==================
 From the GitHub website:
     GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over four million people use GitHub to build amazing things together.
 
@@ -35,7 +33,7 @@ GitHub is powered by Git. Git and GitHub combine to keep the world of web develo
 We use GitHub to share our code with each other, and to collaborate on projects.
 
 The Command Prompt
-------------------
+==================
 The command prompt is what you see "hackers" typing into in movies.
 
 ![Command Prompt][prompt]
