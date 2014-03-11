@@ -105,7 +105,7 @@ Out-of-scope Topics
 
 
 
-[tools]: Tools "Class Tools"
+[tools]: Class-Tools "Class Tools"
 [concepts]: Core-Concepts
 [html]: Html-Fundamentals
 [design]: Web-Design
@@ -114,6 +114,6 @@ Out-of-scope Topics
 [project]: Project-Management
 [styling]: Styling-Basics
 [pseudo]: Selectors#pseudo-classes
-[layout]: Page Layout
+[layout]: Page-Layout
 [selectors]: Selectors
 [styling-advanced]: Advanced-Styling
