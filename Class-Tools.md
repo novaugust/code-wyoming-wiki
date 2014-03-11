@@ -9,11 +9,14 @@ A web development IDE that plugs right into Chrome. We additionally use the foll
 Plugins we use:
 
 * Beautify
-   Helps us keep our code well formatted, making it easier to read and find mistakes.
+
+    Helps us keep our code well formatted, making it easier to read and find mistakes.
 * Emmet
-   Makes writing html go much, much quicker.
-   Don't use it until you have a grasp of how to do html by hand, though.
+
+    Makes writing html go much, much quicker.
+    Don't use it until you have a grasp of how to do html by hand, though.
 * Brackets Git
+
    Integrates Git(below) with Brackets
 
 [Git][Git]
