@@ -1,5 +1,6 @@
 [Google Chrome][Chrome]
 ==================
+![](https://raw.githubusercontent.com/PitchEngine/code-wyoming/wiki/images/chrome.jpg)
 A browser with powerful developer tools that help us see inside our code.
 
 [Brackets][Brackets]
@@ -50,4 +51,4 @@ The command prompt will also reinforce file system navigation.
 [chrome]: http://google.com/chrome   "Google Chrome"
 [git]: http://git-scm.com/           "Git Source Control Manager"
 [github]: http://github.com          "GitHub"
-[prompt]: ./laetus-research-src-1.png "Command Prompt"
+[prompt]: https://raw.githubusercontent.com/PitchEngine/code-wyoming/wiki/images/cmdprompt.png "Command Prompt"
