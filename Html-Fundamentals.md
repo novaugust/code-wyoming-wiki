@@ -1,5 +1,3 @@
-Html Basics
-=================
 Building Blocks
 ----------------
 * tag / element
@@ -47,23 +45,20 @@ Examples are:
 * Poetry
 * Addresses
 
-<pre class="language-html">
+    Mozilla Foundation&lt;br&gt;
 
-    Mozilla Foundation<span class="tag">br</span>
+    1981 Landings Drive&lt;br&gt;
 
-    1981 Landings Drive<span class="tag">br</span>
+    Building K&lt;br&gt;
 
-    Building K<span class="tag">br</span>
-
-    Mountain View, CA 94043-0801<span class="tag">br</span>
+    Mountain View, CA 94043-0801&lt;br&gt;
 
     USA
-</pre>
 [Example via](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br "Mozilla Developer Network - Line Break")
 
 Horizontal Rule
 ----------------
-    In HTML5, the horizontal rule element represents a thematic break between paragraph-level elements (for example, a change of scene in a story, or a shift of topic with a section)
+>In HTML5, the horizontal rule element represents a thematic break between paragraph-level elements (for example, a change of scene in a story, or a shift of topic with a section)
 
 [via](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr "MDN - Horizontal Rule")
 
