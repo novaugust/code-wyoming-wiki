@@ -93,6 +93,18 @@ Table of Contents
 * transform
 * transition
 
+[Web Frameworks][frameworks]
+----------------
+* Bootstrap
+
+[Javascript][js]
+----------------
+* Basics
+* jQuery
+* Variables
+* Functions
+* Loops & Arrays
+
 
 Out-of-scope Topics
 ---------------
@@ -117,3 +129,5 @@ Out-of-scope Topics
 [layout]: Page-Layout
 [selectors]: Selectors
 [styling-advanced]: Advanced-Styling
+[frameworks]: Web-Frameworks
+[js]: Javascript
