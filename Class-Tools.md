@@ -44,7 +44,7 @@ The command prompt is what you see "hackers" typing into in movies.
 ![Command Prompt][prompt]
 
 It's the quickest, most powerful way to interact with developer tools like Git.
-The command prompt will also reinforce file system naviation.
+The command prompt will also reinforce file system navigation.
 
 [brackets]: http://brackets.io       "Adobe Brackets"
 [chrome]: http://google.com/chrome   "Google Chrome"
