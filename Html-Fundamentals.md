@@ -44,16 +44,15 @@ Examples are:
 
 * Poetry
 * Addresses
-
-    Mozilla Foundation&lt;br&gt;
-
-    1981 Landings Drive&lt;br&gt;
-
-    Building K&lt;br&gt;
-
-    Mountain View, CA 94043-0801&lt;br&gt;
-
-    USA
+```
+<p class="address">
+  Mozilla Foundation<br>
+  1981 Landings Drive<br>
+  Building K<br>
+  Mountain View, CA 94043-0801<br>
+  USA
+</p>
+```
 [Example via](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br "Mozilla Developer Network - Line Break")
 
 Horizontal Rule
