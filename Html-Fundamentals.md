@@ -44,7 +44,7 @@ Examples are:
 
 * Poetry
 * Addresses
-```
+```html
 <p class="address">
   Mozilla Foundation<br>
   1981 Landings Drive<br>
