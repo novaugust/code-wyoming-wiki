@@ -71,7 +71,7 @@ Table of Contents
 
 [Pseudo Classes][pseudo]
 -------------------
-* Link Pseudo Classes
+* Pseudo Classes
 
 
 [Page Layout][layout]
@@ -83,10 +83,23 @@ Table of Contents
 * position
 
 
-[Advanced Pseudo Classes & Selectors][selectors]
+[Advanced Selectors][selectors]
 --------------------
-* Before & After
+* +, >, ~
 
+[Pseudo Elements][pseudo-elements]
+--------------------
+* before & after
+* first-letter
+* selection
+
+[Advanced Pseudo-Classes]
+--------------------
+* nth-child
+* nth-of-type
+* first-child
+* last-child
+* checked
 
 [Advanced Styles][styling-advanced]
 ----------------
