@@ -18,7 +18,7 @@ Multipage business site
 
 
 #Day 1
-##[Tools](Tools)
+##[Tools](Class Tools)
 * Day 2
 * Day 3
 * Day 4
