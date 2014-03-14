@@ -1,24 +1,33 @@
 Day 1
 =========
-## [Tools](Class Tools)
+Lessons
+---------
+### [Tools](Class Tools)
 * Chrome
 * Brackets
 
-## [Core Concepts](Core Concepts)
+### [Core Concepts](Core Concepts)
 * All
 
-## [Html](Html#building-blocks)
+### [Html](Html#building-blocks)
 * Template
 * tag / element / attribute
 * headings
 * paragraphs
 
+Project
+--------------
+* My First Website!
+* Whiteboard templates
+
 Day 2
 =========
-## [Tools](Class Tools#wiki-git)
+Lesson
+---------------
+### [Tools](Class Tools#wiki-git)
 * Git & GitHub
 
-## [Html](Html#building-blocks)
+### [Html](Html#building-blocks)
 * linebreak `br`
 * horizontal rule `hr`
 * blockquote
@@ -40,16 +49,53 @@ Day 2
   * unordered
 * description lists
 * special characters
-  * &
-  * ...
-  * ©
-  * &trade;, 
-  * &deg;
+  * &amp;, &hellip;, &copy;, &trade;, &deg;
 * anchor
   * `mailto`
 
+Projects
+------------
+Single page website
 
 Day 3
 =========
-* Day 4
-* Day 5
+Lesson
+--------------
+### Html
+* Structural Elements
+  Div, main, footer, head, etc
+### Web Design
+* Wireframe
+* Use of text
+
+Projects
+-------------
+Multipage Website
+Website code review
+
+Day 4
+=========
+Lesson
+--------------
+### Html
+* `<link>`
+* `<style>`
+
+
+### CSS
+* Introduction
+* Inline, Embedded, External
+* HTML `<link>`
+* CSS Syntax 
+    selectors, properties, values
+* color
+* background-color
+
+Projects
+-------------
+Day 5
+=========
+Lesson
+--------------
+Projects
+-------------
