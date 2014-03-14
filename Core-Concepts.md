@@ -1,6 +1,14 @@
 Understanding the Internet
 ==========================
 
+Servers & Clients
+----------------
+
+Browsers
+---------------
+
+
+
 Protocols
 -----------
 Loosely defined, protocols are rules for communication between computers. Quite a few work together to make the internet do its thing.
