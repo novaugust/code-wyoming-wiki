@@ -29,10 +29,10 @@ That's called a -port number-. They're like PO boxes, making sure your request g
 ### DNS
 Associates IP addresses domain names
 
-HTML
+HTML, CSS, JS
 ----------
-HyperText Markup Language
-#### Hypertext
-#### Markup Languages
+How do they all work together
 
-### HTML5
+Web Development
+-----------
+What is it
