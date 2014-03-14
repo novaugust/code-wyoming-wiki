@@ -132,7 +132,7 @@ Out-of-scope Topics
 
 [tools]: Class-Tools "Class Tools"
 [concepts]: Core-Concepts
-[html]: Html-Fundamentals
+[html]: Html
 [design]: Web-Design
 [css]: CSS-Basics
 [img]: Images-on-the-Web
