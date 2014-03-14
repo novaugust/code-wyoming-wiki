@@ -1,3 +1,6 @@
+Understanding the Internet
+==========================
+
 Protocols
 -----------
 Loosely defined, protocols are rules for communication between computers. Quite a few work together to make the internet do its thing.
