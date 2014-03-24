@@ -1,3 +1,6 @@
+Click on a week's headline to get the day-by-day breakdown.
+
+
 [Week 1: Introductions][1]
 --------
 #### Lessons
