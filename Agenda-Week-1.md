@@ -2,12 +2,12 @@ Day 1
 =========
 Lessons
 ---------
-### [Tools](Class Tools)
-* Chrome
-* Brackets
 
 ### [Core Concepts](Core Concepts)
 * All
+
+### Web Design
+* Wireframe
 
 ### [Html](Html#building-blocks)
 * Template
@@ -24,8 +24,6 @@ Day 2
 =========
 Lesson
 ---------------
-### [Tools](Class Tools#wiki-git)
-* Git & GitHub
 
 ### [Html](Html#building-blocks)
 * linebreak `br`
@@ -61,11 +59,16 @@ Day 3
 =========
 Lesson
 --------------
+### [Tools](Class Tools)
+* Chrome
+* Brackets
+* Git & GitHub
+
 ### Html
 * Structural Elements
   Div, main, footer, head, etc
+
 ### Web Design
-* Wireframe
 * Use of text
 
 Projects
