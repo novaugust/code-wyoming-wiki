@@ -1,5 +1,6 @@
 Day 1
 =========
+The first day of class, we focus on getting to know each other and Code Wyoming, as well as some basics about the internet and web development.
 Lessons
 ---------
 
