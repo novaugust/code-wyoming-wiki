@@ -40,10 +40,11 @@ That's called a -port number-. They're like PO boxes, making sure your request g
 ### DNS
 Associates IP addresses domain names
 
-HTML, CSS, JS
-----------
-How do they all work together
 
 Web Development
 -----------
-What is it
+* Front-side vs back-side
+* What it isn't (other kinds of development)
+
+### HTML, CSS, JS
+How do they all work together
