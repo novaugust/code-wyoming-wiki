@@ -1,6 +1,35 @@
 Day 1
 =========
 The first day of class, we focus on getting to know each other and Code Wyoming, as well as some basics about the internet and web development.
+
+Itinerary
+--------
+
+#### 9AM: Who
+
+Get to know the Code Wyoming Team
+
+Get to know the Code Wyoming Students. To do this, we'll break into groups and get to know each other on a more personal level and work back into the class.
+
+   
+#### 10AM-Noon: [Core Concepts](https://github.com/PitchEngine/code-wyoming/wiki/Core%20Concepts)
+
+
+* Servers & Clients
+* Protocols
+
+######*10:30: Break*
+
+* Urls
+   * DNS
+   * TLD
+* Browsers
+* Web Development
+   * Frontside-vs backside
+   * What it isn't (other kinds of development)
+
+#### 1PM:
+
 Lessons
 ---------
 
