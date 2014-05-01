@@ -6,7 +6,9 @@ Servers & Clients
 
 Browsers
 ---------------
+See Google's blogspot [post](http://googleblog.blogspot.com/2009/10/what-is-browser.html)
 
+See also [WhatBrowser.org](http://www.whatbrowser.org/)
 
 
 Protocols
