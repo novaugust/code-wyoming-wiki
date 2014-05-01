@@ -30,9 +30,11 @@ http://www.example.com/stuff/index.html
 4. folder name (stuff)
 5. file name (index.html)
 
-You'll sometimes see the domain name followed by a column and series of numbers, like so
+You'll sometimes see the domain name followed by a colon and series of numbers, like so
     http://localhost:1337
-That's called a -port number-. They're like PO boxes, making sure your request gets delivered to the right application. More on those later.
+That's called a _port number_. 
+
+They're like PO boxes for your computer, making sure your request gets delivered to the right application. More on those later.
 
 ### TLDs
 -Top Level Domains-
