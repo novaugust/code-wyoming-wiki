@@ -10,24 +10,29 @@ Typically, these websites work like so: `http://placeholder.com/width/height`. O
 
 
 * Fill Murray: `fillmurray.com`
-![Fill Murray](http://fillmurray.com/200/200)
+
+![Fill Murray](http://fillmurray.com/200/50)
 
 
 * Place Kitten: `placekitten.com`
-![Place Kitten](http://placekitten.com/g/200/200)
+
+![Place Kitten](http://placekitten.com/g/200/50)
 
 
 * Place Bear: `placebear.com`
-![Place Bear](http://placebear.com/200/200)
+
+![Place Bear](http://placebear.com/200/50)
 
 
 * Lorem Pixel: `lorempixel.com`
-![Lorem Pixel](http://lorempixel.com/200/200)
+
+![Lorem Pixel](http://lorempixel.com/200/50)
 
 
 * Placehold It: `placehold.it`
 Placehold it has options to define the text and color of the image. See the website for more information.
-![PlaceholdIt](http://placehold.it/200/200)
+
+![PlaceholdIt](http://placehold.it/200/50)
 
 
 
