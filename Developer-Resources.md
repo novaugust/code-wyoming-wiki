@@ -35,6 +35,8 @@ Placehold it has options to define the text and color of the image. See the webs
 ![PlaceholdIt](http://placehold.it/200/100)
 
 
+### Colors
+[Color Scheme Designer] (http://colorschemedesigner.com/)
 
 
 
