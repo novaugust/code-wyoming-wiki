@@ -47,8 +47,11 @@ Lessons
 
 Project
 --------------
-* My First Website!
 * Whiteboard templates
+
+Homework
+--------------
+* Wireframe two websites
 
 Day 2
 =========
@@ -83,7 +86,7 @@ Lesson
 
 Projects
 ------------
-Single page website
+* My First Website!
 
 Day 3
 =========
