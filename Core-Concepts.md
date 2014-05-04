@@ -1,5 +1,7 @@
 What is the internet
 --------------------
+
+[How does the internet work?](http://computer.howstuffworks.com/internet/basics/internet.htm)
 ### Servers & Clients
 
 ### Protocols
