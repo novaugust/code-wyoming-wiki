@@ -28,6 +28,7 @@ Get to know the Code Wyoming Students. To do this, we'll break into groups and g
 * Web Development
    * Frontside-vs backside
    * What it isn't (other kinds of development)
+
 #### 1:30
 Demo of chrome dev tools, website without CSS
 
@@ -92,11 +93,15 @@ Itinerary
     * Document outline review
 #### 10am
 
-Finishing the template
+##### Finishing the template
 * `meta` charset
 * lang
 
 #### 10:30
+##### Browsers
+How they work and what their job is.
+
+#### 11:00
 ##### Project! All the headings.
 Make a webpage with a title "Heading Example" with all the heading levels on it, ie
 ```
@@ -104,15 +109,41 @@ Make a webpage with a title "Heading Example" with all the heading levels on it,
 <h2>Heading Level 2</h2>
 ...
 ```
-#### 11am 
-More html
-* br
-* Blockquote
-* Phrase elements
 
+#### 11:30 
+##### More html
+* `br` (Write a poem)
+* `blockquote`
+
+#### 1pm
+Disability & Accessibility on the web
 Developer resources: [MDN](http://developer.mozilla.org/)
-##### New tags!
-* See "HTML" under Lessons below
+
+##### Html continues
+* Phrase elements (See below)
+* Ordered lists, `ol`
+    * Cool attributes: start & reversed
+* Unordered lists, `ul`
+* Description lists, `dl`
+
+##### Project! with lists
+* Create a "My favorite towns" list, trying both ordered and unordered
+* Create a reference for class definitions so far with `dl`
+
+#### 2pm
+##### Special characters
+
+* `&copy;` copyright 
+* `&amp;` ambersand
+* `&nbsp;` nonbreaking space
+
+#### 230
+##### HTML5 Structural elements
+* `header`
+* `nav`
+* `main`
+* `footer`
+
 
 Lesson
 ---------------
