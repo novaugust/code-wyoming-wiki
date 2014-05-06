@@ -138,7 +138,10 @@ Developer resources: [MDN](http://developer.mozilla.org/)
 * `&nbsp;` nonbreaking space
 
 #### 230
-##### HTML5 Structural elements
+##### Structural elements
+* div
+
+###### Html5 structural elements
 * `header`
 * `nav`
 * `main`
