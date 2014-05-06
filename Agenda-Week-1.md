@@ -91,18 +91,18 @@ Itinerary
     * Tags & attributes
     ```<person name="Matt"> Matt teaches a web development class </person>```
     * Document outline review
-#### 10am
 
+#### 10:45
 ##### Finishing the template
-* `meta` charset
-* lang
+* `meta charset`
+* `html lang`
 
-#### 10:30
+#### 11:15
 ##### Browsers
 How they work and what their job is.
 
-#### 11:00
-##### Project! All the headings.
+#### 1pm
+##### Project! *All the headings.*
 Make a webpage with a title "Heading Example" with all the heading levels on it, ie
 ```
 <h1>Heading Level 1</h1>
@@ -110,16 +110,12 @@ Make a webpage with a title "Heading Example" with all the heading levels on it,
 ...
 ```
 
-#### 11:30 
-##### More html
-* `br` (Write a poem)
-* `blockquote`
-
-#### 1pm
-Disability & Accessibility on the web
+##### Disability & Accessibility on the web
 Developer resources: [MDN](http://developer.mozilla.org/)
 
 ##### Html continues
+* `br` (Write a poem)
+* `blockquote`
 * Phrase elements (See below)
 * Ordered lists, `ol`
     * Cool attributes: start & reversed
@@ -132,10 +128,12 @@ Developer resources: [MDN](http://developer.mozilla.org/)
 
 #### 2pm
 ##### Special characters
-
+* `&quot;` quote
 * `&copy;` copyright 
 * `&amp;` ambersand
 * `&nbsp;` nonbreaking space
+
+Check out this [giant list](http://www.w3.org/TR/2011/WD-html5-20110113/named-character-references.html)
 
 #### 230
 ##### Structural elements
