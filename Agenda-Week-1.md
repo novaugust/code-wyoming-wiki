@@ -147,6 +147,12 @@ Developer resources: [MDN](http://developer.mozilla.org/)
 * `main`
 * `footer`
 
+##### Project! Structured webpage
+Create a webpage that has a header, n
+
+#### 3:00
+##### Project! Multipage website
+
 
 Lesson
 ---------------
