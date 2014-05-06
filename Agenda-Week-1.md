@@ -180,6 +180,7 @@ Lesson
   * &amp;, &hellip;, &copy;, &trade;, &deg;
 * anchor
   * `mailto`
+  * linking to pages within the same site (relative urls)
 
 In-class Project
 ------------
