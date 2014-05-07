@@ -148,15 +148,15 @@ There are three steps to centering content in a webpage.
 __index.html__
 ```html
 <body>
-    <div id="wrapper">
+    <main>
         <h1>This is the heading</h1>
         <p>This is your content</p>
-    </div>
+    </main>
 </body>
 ```
 __style.css__
 ```css
-#wrapper {
+main{
     width: 80%;
     margin-left: auto;
     margin-right: auto;
