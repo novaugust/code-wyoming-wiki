@@ -38,12 +38,13 @@ Go over the class's websites together.
 
 ##### Project! Inline CSS via the `Style` attribute
 1. Create a simple webpage with a single heading and paragraph.
-2. Set the heading to be "Inline CSS" and the paragraph to say "This paragrpah inherits the styles applied to the body tag."
+2. Set the heading to be "Inline CSS" and the paragraph to say "This paragraph inherits the styles applied to the body tag."
 
 3. Finally, set some styles.
 4. Give the body a background color of `#F5F5F5` and set its text's color to `#008080`.
 5. Give the h1 the same properties, but swap the colors (set its background to `#008080` and color to `#F5F5F5`)
 6. Launch the browser and check things out. 
+
 7. Add another paragraph, with a color of `#333`. Give it the text "This paragraph overrides the text color style applied to the body tag".
 8. Never use inline styles in this class ever, ever again.
 
