@@ -1,6 +1,6 @@
 #Day 3 Agenda
 
-Itinierary
+Itinerary
 -------------
 #### 0900
 ##### Review Multipage Websites
