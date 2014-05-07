@@ -130,6 +130,12 @@ Create a page with a single paragraph, and an external stylesheet. Just set the 
 ##### Project! Use an external sheet for your multipage site
 Move your embedded CSS into its own file, and create a `link` element in each of your webpages that links to that file.
 
+#### The "Cascade"
+* or, CSS's _rules of precedence_
+
+` Browser defaults < External < embedded < inline < attributes `
+
+
 #### 15:59
 ##### Bonus Lesson: Centering Webpages
 
@@ -157,7 +163,3 @@ __style.css__
 ```
 Try making your browser wider and smaller, and then change your code so that the `width` is `700px` and try resizing your browser again. We'll talk about what this difference means next time.
 
-##### Other bonus lessons
-* the "cascade" or _rules of precedence_
-
-` Browser defaults < External < embedded < inline < attributes `
