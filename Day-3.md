@@ -163,3 +163,15 @@ __style.css__
 ```
 Try making your browser wider and smaller, and then change your code so that the `width` is `700px` and try resizing your browser again. We'll talk about what this difference means next time.
 
+
+Homework
+-------------------
+Tomorrow we're going to start using [GitHub](http://github.com).
+
+Read these articles so you have an idea of what it all means.
+
+* [Github for beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=~oDAMUrOlfcJGcp)
+* [How to install and configure git](https://help.github.com/articles/set-up-git)
+* and here's a bunch of links with [more to read](https://github.com/blog/120-new-to-git)
+
+Get through the first article and I'm happy. Do your best to swing the second. Keep the third around for reference for later on.
