@@ -121,7 +121,6 @@ Table of Contents
 
 Out-of-scope Topics
 ---------------
-* Bootstrap
 * Angular
 * Node
 
