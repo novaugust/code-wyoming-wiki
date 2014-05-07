@@ -86,56 +86,15 @@ Go over the class's websites together.
 * `text-indent`
 * `text-shadow` horizontal offset, vertical offset, blur radius, color
 
-
-##### Project! Setting the text on your embedded CSS Page
-Keep using the file you set the colors on previously. Now, add some new rules.
-###### the h1
-
-Give your h1 "double spacing" with a line-height of 200%.
-Give it a font-family of your choice, with a fallback.
-Apply a text-shadow, play around to find something you like. I recommend a color of #CCC.
-
-###### h2s
-Try aligning your h2s in the center, and giving them the same font as your h1
-
-###### Paragraphs
-Give your paragraphs an indentation of 3em or so.
-Try giving them a font size that's just under the normal, or just over if you prefer. ie, a .9 or 1.1 em
-
-###### Lists
-Make your ul / ol / dl, whichever, have a font-weight of bold. We're going to use inheritance here to let the list-items pick that up from their parent.
-
-#### 1430
-##### Complex selectors
-
-* `,` the comma selector, "AND"
-* the `class` attribute and `.`
-* the `id` attribute and `#`
-* naming things
-* descendant selector: ` `
-* span
-
-##### Mini-Project!
-
-Give a "featured" class to some (but not all) of your list items. Then write a selector that "calls-out" those items, perhaps by turning them red-ish (`#C70000`).
-Check out your handiwork.
-Next up, choose a special phrase in your text. Maybe it's your name or some other combination of words that are significant. Wrap that phrase in a span, give it a class, and write a selector on that class that makes the font bold and large.
-
 ##### External Style Sheets
-
 * `link` element
 * style.css
+
 ###### Mini-project!
 Create a page with a single paragraph, and an external stylesheet. Just set the background-color and the color of the body in the stylesheet. The trick here is making sure you're correctly using the `<link>` element.
 
 ##### Project! Use an external sheet for your multipage site
 Move your embedded CSS into its own file, and create a `link` element in each of your webpages that links to that file.
-
-#### The "Cascade"
-* or, CSS's _rules of precedence_
-
-` Browser defaults < External < embedded < inline < attributes `
-
 
 #### 15:59
 ##### Bonus Lesson: Centering Webpages
