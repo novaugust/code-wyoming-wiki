@@ -187,36 +187,9 @@ In-class Project
 * Headings website
 * My First Website!
 
-Day 3
+[Day 3](Day 3)
 =========
-Lesson
---------------
-### [Tools](Class Tools)
-* Chrome
-* Brackets
-* Git & GitHub
-
-### Html
-* Structural Elements
-  Div, main, footer, head, etc
-
-### Web Design
-* Use of text
-
-Projects
--------------
-Multipage Website
-Website code review
-
-Day 4
-=========
-Lesson
---------------
-### Html
-* `<link>`
-* `<style>`
-
-
+Go to day 3's page to get the itinerary.
 ### CSS
 * Introduction
 * Inline, Embedded, External
@@ -228,6 +201,8 @@ Lesson
 
 Projects
 -------------
+Embedded CSS Colors & Text
+
 Day 5
 =========
 Lesson
