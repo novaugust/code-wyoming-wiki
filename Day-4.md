@@ -1,11 +1,3 @@
-Outline
------------
-
-* Customizing text project
-* CSS: Selectors
-* The "Cascade"
-* github & git
-
 Itinerary
 ------------
 
