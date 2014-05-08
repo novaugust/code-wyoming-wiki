@@ -81,3 +81,19 @@ __Footer__
 * Put a top border on your footer. Make it a solid, "thin" border with a lighter gray color like `#aeaed4`
 * Give the footer a bit of padding on the top, around `10px` should be good.
 * Try lightening up your footer's text if it's copyright, by changing its color from the default `#000` to `#333`.
+
+#### 1400
+##### More Html5
+* `figure`
+* `figcaption`
+
+###### Mini-project
+
+1. Grab an image off of [unsplash.com].
+2. Create a new html file and inside of there place a figure, img (to your unsplash photo) and a caption (figcaption)
+3. Get your image under control - put a css `width` on it.
+4. Put padding and border on the figure as well
+5. Choose a nice font to go with your image, and center the caption.
+
+#### 1430
+##### 
