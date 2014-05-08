@@ -217,9 +217,6 @@ Projects
 -------------
 Embedded CSS Colors & Text
 
-Day 5
-=========
-Lesson
---------------
-Projects
--------------
+
+
+# [Day 4]
