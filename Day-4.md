@@ -91,7 +91,9 @@ __Footer__
 #### 1430
 ##### Favicon
 
-* `<link rel="icon" href="myfavicon.ico" >
+```
+<link rel="icon" href="myfavicon.ico" >
+```
 
 ##### Background images?!?!
 
