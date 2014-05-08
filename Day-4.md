@@ -95,6 +95,12 @@ __Footer__
 <link rel="icon" href="myfavicon.ico" >
 ```
 
+##### Fancy Properties 
+* `border-radius`
+* `box-shadow`
+* `opacity`
+
+
 ##### Background images?!?!
 
 * `background-image`
@@ -105,9 +111,4 @@ __Footer__
 * `background-clip`
 * `background-origin`
 * `background-size`
-* Multiple background images
 
-
-* `border-radius`
-* `box-shadow`
-* `opacity`
