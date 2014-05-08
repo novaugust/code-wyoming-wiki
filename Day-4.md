@@ -95,5 +95,25 @@ __Footer__
 4. Put padding and border on the figure as well
 5. Choose a nice font to go with your image, and center the caption.
 
+
 #### 1430
+##### Favicon
+
+* `<link rel="icon" href="myfavicon.ico" >
+
 ##### Background images?!?!
+
+* `background-image`
+* `background-repeat`
+* `background-position`
+* `background-attachment`
+* `background-image`
+* `background-clip`
+* `background-origin`
+* `background-size`
+* Multiple background images
+
+
+* `border-radius`
+* `box-shadow`
+* `opacity`
