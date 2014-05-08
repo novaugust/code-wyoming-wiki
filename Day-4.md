@@ -96,4 +96,4 @@ __Footer__
 5. Choose a nice font to go with your image, and center the caption.
 
 #### 1430
-##### 
+##### Background images?!?!
