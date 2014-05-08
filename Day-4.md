@@ -40,7 +40,7 @@ Make your ul / ol / dl, whichever, have a font-weight of bold. We're going to us
 * descendant selector: ` `
 * `span`
 
-#### 10:30
+#### 10:30 (Don't forget to take a break)
 ##### Mini-Project!
 
 Give a "featured" class to some (but not all) of your list items. Then write a selector that "calls-out" those items, perhaps by turning them red-ish (`#C70000`).
@@ -51,7 +51,33 @@ Next up, choose a special phrase in your text. Maybe it's your name or some othe
 
 
 
-#### The "Cascade"
-* or, CSS's _rules of precedence_
+##### The "Cascade"
+or, CSS's ___rules of precedence___
 
 ` Browser defaults < External < embedded < inline < attributes `
+
+
+#### 11:30
+##### Github
+Introduction to Github and git.
+
+#### 1300
+##### More CSS
+* Border
+    * width
+    * style
+    * color
+    * TRBL
+* Padding
+    * TRBL
+    * 1, 2, 3, 4 arguments
+
+###### Mini-Project!
+__Headings__
+* Working with your MPWS, put padding on the h1 (15px looks pretty nice)
+* Give your h2s a 2px, dashed bottom border with a color of your choice
+
+__Footer__
+* Put a top border on your footer. Make it a solid, "thin" border with a lighter gray color like `#aeaed4`
+* Give the footer a bit of padding on the top, around `10px` should be good.
+* Try lightening up your footer's text if it's copyright, by changing its color from the default `#000` to `#333`.
