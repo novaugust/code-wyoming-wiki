@@ -1,8 +1,8 @@
 # Itinerary
-###9 
+###900
 Code Review! Look at projects from [Day 5](Day-5).
 
-### 1
+### 1300
 #### The Box Model
 
 ##### Content Box
@@ -22,7 +22,7 @@ Nothing new to add!
 ###### Boxes Project
 Make a few boxes, some inside others, setting width, height, margin, border, padding, and background-color (to help visualization)
 
-### 2:30
+### 1430
 #### Floating
 
 Floats are our first look into doing actual layouts with our code.
