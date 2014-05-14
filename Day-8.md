@@ -12,6 +12,8 @@ We're going to explore the issues that arise with making a nav-bar have percenta
 #### Gallery Project
 We're going to make a simple, no frills image gallery to practice with inline-block.
 
+Why use inline-block instead of float? It comes down to height issues! Read [this article on teamtreehouse](http://blog.teamtreehouse.com/using-inline-block-to-display-a-product-grid-view)
+
 ### 10AM
 #### Advanced Selectors
 ##### Pseudo Classes
