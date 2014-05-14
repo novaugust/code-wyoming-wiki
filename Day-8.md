@@ -26,9 +26,9 @@ Read more about pseudo classes on [css-tricks](http://css-tricks.com/pseudo-clas
 ###11AM
 #### More HTML5 Containers
 
-* `article`
-* `aside`
-* `section`
+* `article` _[article on mdn]_ (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
+* `aside` _[aside on mdn]_ (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside)
+* `section` _[section on mdn]_ (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
 
 ##### Sections and headings
 
