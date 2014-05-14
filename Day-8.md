@@ -14,6 +14,8 @@ We're going to make a simple, no frills image gallery to practice with inline-bl
 
 Why use inline-block instead of float? It comes down to height issues! Read [this article on teamtreehouse](http://blog.teamtreehouse.com/using-inline-block-to-display-a-product-grid-view)
 
+Still, inline block isn't without its [own drawbacks](http://stackoverflow.com/questions/14127150/why-bootstrap-uses-floats-on-span-instead-of-display-inline-block)
+
 ### 10AM
 #### Advanced Selectors
 ##### Pseudo Classes
