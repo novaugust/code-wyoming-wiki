@@ -1,10 +1,16 @@
 ### 9AM
+
+PSA: Old HTML/CSS Articles
+
 #### Brackets Git
 Useful happy tool!
 
 #### Horizontal List Practice Project
 We're going to explore the issues that arise with making a nav-bar have percentage widths, and the unexpected issues that arise with whitespace and inline-block.
 
+
+#### Gallery Project
+We're going to make a simple, no frills image gallery to practice with inline-block.
 
 ### 10AM
 #### Advanced Selectors
@@ -34,10 +40,10 @@ Read more about pseudo classes on [css-tricks](http://css-tricks.com/pseudo-clas
 
 Check out [this page](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document) on the MDN for more reading.
 
-
 ### 1300
 #### "Casey's project" Preview
 We need to know how to use multiple wrapper and content containers before doing Casey's Project.
 
 #### "Casey's Project"
+We're going to work on this in groups of two (or three)
 
