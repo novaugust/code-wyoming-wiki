@@ -20,6 +20,12 @@ Still, inline block isn't without its [own drawbacks](http://stackoverflow.com/q
 #### Advanced Selectors
 ##### Pseudo Classes
 * Lord Vader Feeds His Anger!
+* `link`
+* `visited`
+* `focus`
+* `hover`
+* `active`
+
 * `first-child`
 * `last-child`
 * `nth-child`
