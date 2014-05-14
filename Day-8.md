@@ -10,6 +10,7 @@ We're going to explore the issues that arise with making a nav-bar have percenta
 * `first-child`
 * `last-child`
 * `nth-child`
+* `...of-type`
 
 ##### Immediate child and sibling selectors
 
