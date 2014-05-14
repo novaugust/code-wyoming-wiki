@@ -3,12 +3,11 @@ Click on a week's headline to get the day-by-day breakdown.
 
 [Week 1: Introductions][1]
 --------
-### Lessons
-#### The Internet
+### The Internet
 See [Core Concepts](Core-Concepts)
-#### HTML
+### HTML
 We introduce html, and by the end of the week students are able to make a multipage, inter-linked website.
-#### CSS
+### CSS
 We cover basic CSS, namely for 'pretty-fying' our webpages.
 * colors
 * fonts and text
@@ -22,16 +21,15 @@ As our projects become more complex, we'll become more reliant on GitHub.
 
 We'll also continue to learn new CSS properties throughout the week.
 
-### Lessons
-#### The Box Model
+### The Box Model
 Everything is a box. We need to understand the finer points of this before we can move on to layouts
 
-#### Layouts
+### Layouts
 * floating
 * display
 * position
 
-#### Advanced CSS
+### Advanced CSS
 * Advanced Selectors
 * Pseudo Classes (for links / gallery)
 * Pseudo Elements
@@ -42,10 +40,9 @@ This week focuses on learning to use Media Queries, which allow us to write diff
 We'll also work on creating more reusable CSS that allows us to easily work on our html.
 Html will be finished up this week as we learn about forms and tables.
 
-### Lessons
-#### Media Queries
+### Media Queries
 This is the emphasis for the week. We will be writing a lot of CSS to get ou websites
-#### Finishing Html
+### Finishing Html
 * Forms
 * Tables
 
@@ -53,44 +50,29 @@ This is the emphasis for the week. We will be writing a lot of CSS to get ou web
 --------
 This week, we learn to use web-developer tools like Bootstrap, Font Awesome, and other frameworks to help us quickly prototype websites without reinventing the wheel.
 As we become comfortable with using Bootstraps more complicated features (powered by javascript), we'll begin to delve into writing Javascript for the first time.
-### Lessons
-#### Frameworks
+### Frameworks
 Frameworks are tools created by web developers for web developers. They keep us from needing to reinvent the wheel with every webpage.
-##### Font Awesome
+#### Font Awesome
 Awesome icons from Font Awesome! So awesome!
 
-##### Bootstrap
+#### Bootstrap
 Bootstrap began as an open source project by Twitter, and has become arguably the most 
 
-###### Helpers
+##### Helpers
 To start with, we will focus on learning to use Bootstrap's helper classes, like `pull-right` or `text-center` to help speed up our prototyping.
 
-###### The Grid
+##### The Grid
 Once we're feeling comfortable with the idea of using other peoples CSS, we will move on to using Bootstrap's grid to create responsive layouts.
 
-###### Components
+##### Components
 * Carousel
 * Dropdowns
 * Navbars
 
-#### Basic jQuery
+### Basic jQuery
 We'll sneak in some jQuery based javascript as the week progresses.
 
 [Week 8: AJAX and APIs][8]
 --------
 This is the real deal, front-end web-application goodness.
-### Lessons
-####AJAX
-
-#### Projects
-* Students server revisited: AJAXing the form
-
-
-[1]: Agenda-Week-1
-[2]: Agenda-Week-2
-[3]: Agenda-Week-3
-[4]: Agenda-Week-4
-[5]: Agenda-Week-5
-[6]: Agenda-Week-6
-[7]: Agenda-Week-7
-[8]: Agenda-Week-8
+###AJAX
