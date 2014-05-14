@@ -1,4 +1,7 @@
 ### 9AM
+#### Brackets Git
+Useful happy tool!
+
 #### Horizontal List Practice Project
 We're going to explore the issues that arise with making a nav-bar have percentage widths, and the unexpected issues that arise with whitespace and inline-block.
 
@@ -11,6 +14,8 @@ We're going to explore the issues that arise with making a nav-bar have percenta
 * `last-child`
 * `nth-child`
 * `...of-type`
+
+Read more about pseudo classes on [css-tricks](http://css-tricks.com/pseudo-class-selectors/)
 
 ##### Immediate child and sibling selectors
 
@@ -31,4 +36,8 @@ Check out [this page](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Se
 
 
 ### 1300
+#### "Casey's project" Preview
+We need to know how to use multiple wrapper and content containers before doing Casey's Project.
+
 #### "Casey's Project"
+
