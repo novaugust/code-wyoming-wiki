@@ -9,13 +9,27 @@ Today we learn a new layout technique, positioning, which utilizes the `position
 #### Position: Static
 This is the default
 
-#### Position: Relative
-Setting a position to relative does not immediately do anything we can detect. `position` actually works in conjunction with the __TRBL Offsets__, a series of four properties.
+#### Position: Fixed
+This is how we do "sticky" navbars and headers.
 
+##### Offsets
 * `top`
 * `right`
 * `bottom`
 * `left`
 
-### 1130
-##### Relative Positioning Practice Project
+##### Fixed Projects
+Fix the nav element on the brochure.
+
+Fix the header on Casey's Project.
+
+## 1300
+### Positioning: Relative
+* z-index
+#### Relative Positioning: Boxes
+
+## 1400
+### Positioning: Absolute
+This is the most powerful, and thus trickiest, of the position values.
+
+#### Four corners project
