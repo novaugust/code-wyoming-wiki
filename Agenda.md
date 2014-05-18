@@ -13,7 +13,7 @@ We cover basic CSS, namely for 'pretty-fying' our webpages.
 * fonts and text
 * padding and borders
 
-[Week 2: Layouts][2]
+Week 2: Layouts
 --------
 Week two is our first foray into actual webpages. We'll work on making authentic webpages with techniques we learn in the Layouts section. This week is project heavy as we finally bring together all the things we've learned to make webpages.
 
