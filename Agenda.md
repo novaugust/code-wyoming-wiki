@@ -1,7 +1,7 @@
 Click on a week's headline to get the day-by-day breakdown.
 
 
-[Week 1: Introductions][1]
+Week 1: Introductions
 --------
 ### The Internet
 See [Core Concepts](Core-Concepts)
@@ -34,7 +34,7 @@ Everything is a box. We need to understand the finer points of this before we ca
 * Pseudo Classes (for links / gallery)
 * Pseudo Elements
 
-[Week 3: Responsive (Mobile) Design][3]
+Week 3: Responsive (Mobile) Design
 ---------
 This week focuses on learning to use Media Queries, which allow us to write different CSS properties for differently-sized screens. 
 We'll also work on creating more reusable CSS that allows us to easily work on our html.
@@ -46,7 +46,7 @@ This is the emphasis for the week. We will be writing a lot of CSS to get ou web
 * Forms
 * Tables
 
-[Week 4: Frameworks & Javascript][4]
+Week 4: Frameworks & Javascript
 --------
 This week, we learn to use web-developer tools like Bootstrap, Font Awesome, and other frameworks to help us quickly prototype websites without reinventing the wheel.
 As we become comfortable with using Bootstraps more complicated features (powered by javascript), we'll begin to delve into writing Javascript for the first time.
@@ -72,7 +72,7 @@ Once we're feeling comfortable with the idea of using other peoples CSS, we will
 ### Basic jQuery
 We'll sneak in some jQuery based javascript as the week progresses.
 
-[Week 8: AJAX and APIs][8]
+Week 8: AJAX and APIs
 --------
 This is the real deal, front-end web-application goodness.
 ###AJAX
