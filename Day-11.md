@@ -24,7 +24,8 @@ linear-gradient(
       #fffdc2 85%
     );
 ```
-
+##### Multiple Background Images
+Commas, yo!
 ##### Browser prefixes
 ```css
 background-color: #8FA5CE;
