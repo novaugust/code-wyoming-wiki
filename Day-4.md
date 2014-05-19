@@ -89,12 +89,6 @@ __Footer__
 
 
 #### 1430
-##### Favicon
-
-```html
-<link rel="icon" href="myfavicon.ico" >
-```
-
 ##### Fancy Properties 
 * `border-radius`
 * `box-shadow`
