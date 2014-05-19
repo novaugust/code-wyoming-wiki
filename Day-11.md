@@ -6,7 +6,7 @@ Finishing & fluid-izing the landing page
 * The `target` attribute
 * `sms`
 * `tel`
-* section links (`#`)
+* fragment links (`#`)
 *  html5 block links
 
 
