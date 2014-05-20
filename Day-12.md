@@ -25,7 +25,7 @@ Float the image right.
 Two media queries. One turns the paragraph green and turns off float on the image at 800px.
 The other Makes the h1 `text-align: right` between 500 and 600 pixels.
 
-Also: _Lighthouse media query_
+Also: __Lighthouse media query__
 
 ## Fluid Images
 max-width
