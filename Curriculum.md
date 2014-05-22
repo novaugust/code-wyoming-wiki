@@ -1,3 +1,4 @@
+This is getting a bit of a revamp. Be sure to also check out the [Agenda](Agenda)
 Table of Contents
 =================
 
