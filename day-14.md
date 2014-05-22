@@ -29,9 +29,13 @@ Multiple transformations just need spaces
 ## Animations
 ### Animation property
 Animations are a W3C working draft! Check out the CanIUse for them.
+
 [CanIUse Css Animation?](http://caniuse.com/css-animation)
+
 [CSS Tricks Animation Tricks](http://css-tricks.com/css-animation-tricks/)
+
 [Animations on MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_animations)
+
 
 * animation-duration
 * animation-delay
