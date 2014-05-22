@@ -13,6 +13,7 @@
 
 ## Transforms
 [CSS Tricks:Transform](http://css-tricks.com/almanac/properties/t/transform/)
+[Transforms + Transitions](http://css3.bradshawenterprises.com/transforms/)
 Transformed elements still occupy their original space (like relative elements)
 
 * transform-origin: x y;
