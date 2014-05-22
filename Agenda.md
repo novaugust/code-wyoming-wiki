@@ -22,12 +22,13 @@
 * Frameworks
 * Bootstrap
 * Forms
-* Basic Javascript
+* Javascript & jQuery
 
 [Week 5: Advanced Web](Week-5)
 --------
 * SEO
 * LESS
+* jQuery
 * AJAX
 
 [Week 6: TBD](Week-6)
