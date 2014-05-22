@@ -76,3 +76,17 @@ Week 8: AJAX and APIs
 --------
 This is the real deal, front-end web-application goodness.
 ###AJAX
+
+
+
+
+#TBD:
+
+* Bootstrap
+* Forms
+* LESS
+* Javascript
+* Hosting
+* Wordpress
+* Nodejs
+* SEO
