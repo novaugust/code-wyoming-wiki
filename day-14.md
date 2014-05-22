@@ -1,4 +1,3 @@
-
 ## Tables
 ### Table children
 * caption
@@ -6,6 +5,7 @@
 * thead
 * tbody
 * tfoot
+
 #### Grand Children
 * tr
 * td
