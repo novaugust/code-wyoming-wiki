@@ -1,13 +1,13 @@
 # [LESS](http://lesscss.org/)
 
-Less is a CSS Pre-compiler. It lets us write powerful CSS-like code that is then **compiled** (converted) into code.
+Less is a CSS Pre-compiler. It lets us write powerful CSS-like code that is then *compiled* (converted) into code.
 We do not link directly to our LESS code from our HTML. Instead, we add an extra step that compiles our LESS to CSS.
 Brackets has a plugin that automaticallyour LESS code into CSS.
 
 
 Why would we want something like this?
 
-* [Nesting](http://lesscss.org/features/#features-overview-feature-nested-rules)
+## [Nesting](http://lesscss.org/features/#features-overview-feature-nested-rules)
 
 If our html was like so...
 
@@ -36,7 +36,7 @@ header {
 }
 ```
 
-* [Variables](http://lesscss.org/features/#features-overview-feature-variables)
+## [Variables](http://lesscss.org/features/#features-overview-feature-variables)
 
 We want our CSS to be consistent, that is, use the same colors over and over. The downside to this is, we have to re-write our code, meaning we have very WET CSS by its nature.
 
@@ -60,5 +60,5 @@ LESS takes that code and writes this CSS for us.
 ```
 
 
-* [Mixins](http://lesscss.org/features/#features-overview-feature-mixins)
-* Imports
+## [Mixins](http://lesscss.org/features/#features-overview-feature-mixins)
+## Imports
