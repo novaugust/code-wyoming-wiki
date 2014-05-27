@@ -3,6 +3,7 @@
 * [Day 13](Day-13)
 * [Day 14](Day-14)
 * [Day 15](Day-15)
+
 # Mobile Design
 This week focuses on learning to use Media Queries, which allow us to write different CSS properties for differently-sized screens. 
 We'll also work on creating more reusable CSS that allows us to easily work on our html.
