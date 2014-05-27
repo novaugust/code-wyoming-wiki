@@ -1,6 +1,9 @@
 # [LESS](http://lesscss.org/)
 
-Less is a CSS Pre-compiler. It lets us write powerful CSS-like code that is then compiled into code.
+Less is a CSS Pre-compiler. It lets us write powerful CSS-like code that is then **compiled** (converted) into code.
+We do not link directly to our LESS code from our HTML. Instead, we add an extra step that compiles our LESS to CSS.
+Brackets has a plugin that automaticallyour LESS code into CSS.
+
 
 Why would we want something like this?
 
