@@ -1,0 +1,1 @@
+The Jackson class took Monday, June 26th, off to celebrate Memorial Day.
