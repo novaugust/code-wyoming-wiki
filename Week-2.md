@@ -1,3 +1,10 @@
+
+* [Day 6](Day-6) 
+* [Day 7](Day-7) 
+* [Day 8](Day-8) 
+* [Day 9](Day-9) 
+* [Day 10](Day-10)
+
 # Website Layouts
 Week two is our first foray into actual webpages. We'll work on making authentic webpages with techniques we learn in the Layouts section. This week is project heavy as we finally bring together all the things we've learned to make webpages.
 
