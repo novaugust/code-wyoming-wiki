@@ -67,11 +67,5 @@ Use commas if you have shared start and stops
 ```
 If you have just two stops, use `from` and `to`.
 
-##vh, vw, vmin, vmax?!
-Oh my god all my secrets!!!
-
-
-
-## Bootstrap??
+## Bootstrap
 ### Helper classes
-### Grid???
