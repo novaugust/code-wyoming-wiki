@@ -8,6 +8,7 @@ Brackets has a plugin that automaticallyour LESS code into CSS.
 Why would we want something like this?
 
 * [Nesting](http://lesscss.org/features/#features-overview-feature-nested-rules)
+
 If our html was like so...
 
 ```html
