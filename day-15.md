@@ -4,4 +4,7 @@
 
 ## Responsive Helper Classes
 
-## Responsive Layouts With Bootstrap **projects**
+## Projects
+
+### Lighthouse
+Do the responsive lighthouse project without writing any CSS for it. (See lighthouse-BS.html)
