@@ -7,7 +7,7 @@ Brackets has a plugin that automaticallyour LESS code into CSS.
 
 Why would we want something like this?
 
-1. [Nesting](http://lesscss.org/features/#features-overview-feature-nested-rules)
+* [Nesting](http://lesscss.org/features/#features-overview-feature-nested-rules)
 If our html was like so...
 
 ```html
@@ -29,19 +29,13 @@ header p {...}
 We can write this
 ```less
 header {
-    h1 {
-    
-    }
-    h2 {
-    
-    }
-    p {
-    
-    }
+    h1 {...}
+    h2 {...}
+    p {...}
 }
 ```
 
-2. [Variables](http://lesscss.org/features/#features-overview-feature-variables)
+* [Variables](http://lesscss.org/features/#features-overview-feature-variables)
 
 We want our CSS to be consistent, that is, use the same colors over and over. The downside to this is, we have to re-write our code, meaning we have very WET CSS by its nature.
 
@@ -65,5 +59,5 @@ LESS takes that code and writes this CSS for us.
 ```
 
 
-3. [Mixins](http://lesscss.org/features/#features-overview-feature-mixins)
-4. Imports
+* [Mixins](http://lesscss.org/features/#features-overview-feature-mixins)
+* Imports
