@@ -2,10 +2,11 @@ SUPER ADVANCED CSS!! Or,
 
 #Let's break the interwebs.
 
-## Transitions
-
 ##FLEXBOX!
 [Guide](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+[In depth](http://bocoup.com/weblog/dive-into-flexbox/)
+
 [CanIUse Flexbox?](http://caniuse.com/flexbox)
 
 ### flex container
