@@ -64,6 +64,25 @@ LESS takes that code and writes this CSS for us.
 
 
 ## [Mixins](http://lesscss.org/features/#features-overview-feature-mixins)
+
+```less
+.bordered {
+  border-top: dotted 1px black;
+  border-bottom: solid 2px black;
+}
+
+
+#menu a {
+  color: #111;
+  .bordered;
+}
+
+.post a {
+  color: red;
+  .bordered;
+}
+```
+
 ## Imports
 
 ### Project: Rewrite Casey's CSS into LESS, optimizing it to use variables as we go.
