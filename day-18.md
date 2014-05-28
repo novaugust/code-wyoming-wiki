@@ -1,3 +1,6 @@
+Morning: More bootstrap grid review
+
+
 # [LESS](http://lesscss.org/)
 
 Less is a CSS Pre-compiler. It lets us write powerful CSS-like code that is then *compiled* (converted) into code.
@@ -62,3 +65,5 @@ LESS takes that code and writes this CSS for us.
 
 ## [Mixins](http://lesscss.org/features/#features-overview-feature-mixins)
 ## Imports
+
+### Project: Rewrite Casey's CSS into LESS, optimizing it to use variables as we go.
