@@ -11,8 +11,9 @@
 
 ### Title & H1 match-up
 
+### Robots.txt
 
-#### Twitter cards & FB Open Graph & G+ nonsense
+### Twitter cards & FB Open Graph & G+ nonsense
 
 ## Html5 video and audio
 
