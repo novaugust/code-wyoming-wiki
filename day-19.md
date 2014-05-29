@@ -163,10 +163,3 @@ The things you want to be careful of are the `data-slide`, `href` and `class` at
 
 ### Multiple carousels
 This is why you must give each carousel an ID for things to work correctly. As long as you assigned unique IDs, things will work well.
-
-## Modals
-
-
-
-## Tooltips
-Opt-in
