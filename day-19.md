@@ -103,7 +103,66 @@ Navs should still be in unordered lists, with the BS classes of `nav` and `navba
 
 Fix a nav by adding the `navbar-fixed-top` or `navbar-fixed-bottom` classes. Keep in mind, you'll need to add padding to the body to keep content behaving.
 
+## Carousels
 
+Carousels begin with a container that must have an ID on it to work properly. The carousel should also have a class of `carousel`. Finally, use the `data-ride="carousel"` property to kick in the javascript.
+
+(Note: On the examples, carousels also have a `slide` class. I couldn't find that it actually did anything.)
+
+```html
+<div id="my-carousel" class="carousel" data-ride="carousel">
+    ...
+</div>
+```
+
+Inside of the carousel container you will place three separate components.
+They are:
+
+1. The carousel indicators.
+2. The carousel content.
+3. The carousel controls.
+
+### Carousel indicators
+The carousel indicators are the nice little dots that indicate which position you are at within the carousel. They are made from an ordered list with class `carousel-indicators`
+
+Within the ordered list, each `li` will have two data properties
+1. data-target="#my-carousel" (or whatever your carousel container's ID is)
+2. data-slide-to="0" (the slide number each li corresponds to, start with the first slide being "0")
+
+Finally, the carousel indicator that is active when the screen loads should have a class of `active`.
+
+### Carousel Content
+The carousel's content (that is, the slides themselves) go within a `div.carousel-inner`.
+Inside of that, you will repeat this pattern for each slide:
+
+1. Give the slide a container with class `item`
+2. Place an image in the container
+3. Add the `active` class to the slide that starts visible.
+
+#### Slide captions
+If you want to add captions to your slides, do the following. 
+
+1. Add an additional div within the `div.item`, after the `img` tag.
+2. Give this div a class of `carousel-caption`
+3. Add whatever content you want over the slide within the `carousel-caption`
+4. *Et voila*.
+
+### Carousel controls
+The carousel controls should go at the end of your `carousel` container. The code is fairly generic, so I'm just going to copy and paste it below. 
+The things you want to be careful of are the `data-slide`, `href` and `class` attributes on each `a` tag. The content within each tag is up to you; in this examle, we're seeing bootstraps default *glyphicon* spans.
+
+```html
+<a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+
+```
+
+### Multiple carousels
+This is why you must give each carousel an ID for things to work correctly. As long as you assigned unique IDs, things will work well.
 
 ## Modals
 
