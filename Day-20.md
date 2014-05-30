@@ -319,7 +319,7 @@ Titles and descriptions should still be though of under the same constraints as 
 ### Facebook's open graph (OG)
 
 [Open Graph description](https://developers.facebook.com/docs/opengraph/)
-
+[Open graph properties](https://developers.facebook.com/docs/opengraph/creating-custom-stories/#objecttypes-properties)
 Facebook's open graph protocol uses the following meta tags.
 
 * og:title
