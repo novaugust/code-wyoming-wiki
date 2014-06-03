@@ -1,6 +1,11 @@
 # jQuery
 
+Das basics.
+
 ## Selecting Elements
+```javascript
+var overlyComplexSelector = $('ul li#meow.roar a:first-child');
+```
 
 ## Class manipulation
 
