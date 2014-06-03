@@ -16,13 +16,6 @@ Setters return jQuery object for chaining
 
 ## .html and .text
 
-## Element traversal
-
-* first
-* eq
-* find
-* parent
-
 ## Class manipulation
 
 * addClass
@@ -49,6 +42,12 @@ $( "#myList" ).append( $( "#myList li:first" ) );
 // Copy the first list item to the end of the list:
 $( "#myList li:first" ).clone().appendTo( "#myList" );
 
+## Element traversal
+
+* first
+* eq
+* find
+* parent
 
 # Forms
 
