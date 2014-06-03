@@ -15,7 +15,9 @@ var overlyComplexSelector = $('ul li#meow.roar a:first-child');
 * hasClass
 
 
-## Projects
+## `.click`
+
+### Click Projects
 
 * fade via jquery
 * image click to add rounder
