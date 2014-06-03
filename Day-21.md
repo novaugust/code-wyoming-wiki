@@ -52,3 +52,64 @@ print(total);
 ```javascript
 print(sum(range(1, 10)));
 ```
+
+
+# Javascript
+## Example Uses
+
+* Modernizr
+* Polyfill
+* Ajax
+* Lightbox
+* Collapse
+
+## The Console
+
+It is our best friend.
+
+## JS Syntax & Basics
+
+Javascript is *case sensitive*.
+
+## Statements
+
+* End with semicolon
+* Tell computer to do something
+
+## Comments
+
+* single line `//`
+* multi line `/*  */`
+
+## Variables
+Named data containers
+
+```
+var foo = 5;
+```
+
+## Data Types
+### undefined
+### null
+### numbers
+### strings
+### booleans
+#### comparisons
+
+* `>`
+* `<`
+* `>=`
+* `<=`
+* `==`
+* `===`
+* `!=`
+* `!==`
+
+### arrays
+### objects
+### functions
+```
+var myFunction = function () {
+    //put statements here
+}
+```
