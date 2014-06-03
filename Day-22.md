@@ -91,9 +91,27 @@ Server & Client
 * email (5)
 * tel (5)
 * url (5)
+* submit
+* reset
+* file
+* hidden
+* date 5
+* time 5
+* number
+* color
+
+##### Radio
+##### Checkbox
+
+### Dropdowns (select)
+
+* `optgroup`
 
 ### Textarea
 
+## Labels
+
+## Fieldset & legend
 
 ## Styling forms
 
