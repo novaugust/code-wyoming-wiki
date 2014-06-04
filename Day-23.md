@@ -67,54 +67,160 @@ Getters/Setters are a common theme throughout jQuery. They are functions that, w
 
 #### Getting Text
 Pass no value to `.text()` to **get** the element's text.
+
 ```javascript
 var userName = $('input#userName').text();
 ```
 
 #### Setting Text
 Pass a string to **set** the element's text.
+```javascript
+$('#set-my-text').text('Text set!');
+```
+
+### Putting it together
+
+```javascript
+//Get the name the user typed in.
+var userName = $('input#userName').text();
+//Make sure that user name exists.
+if (userNotFound(userName)) {
+    $('#statusBox').text('That user name was not found.');
+} else {
+    //User exists.. do login, or what have you
+}
+```
+## Project: Unread email tracker
+
+Write some javascript that changes the title of a page to reflect the number of unread emails, like Gmail does.
+
+
+## `html`
+
+```javascript
+$('#messageBox').html('This is a message with <strong>strong</strong> elements in it, and a <a href="example.com">link</a>. It overwrote whatever was in the messagebox')
+```
+
+# Creating and Appending Elements
+The jQuery function, when given html rather than a css selector, will create the html.
+## Creating elements
+#### Create a div
+```javascript
+var newDiv = $('<div>');//make me a div and save it in `newDiv`
+//newDiv is not yet a part of the dom! it only exists in the JS.
+newDiv.text('Text inside the div, brah.').click(function () {..});
+```
+#### Create an h2
+```javascript
+var newH2 = $('<h2>').text('This is a heading');
+//OR
+var otherH2 = $('<h2>This is a heading</h2>');
+```
+
+## Appending Elements (Inserting into DOM, etc)
+Append inserts things as the last element in the target.
+### `appendTo`
+To append an element, call its `appendTo` function, passing the element you want to append it to.
+
+```javascript
+var h1 = $('<h1>').text('My Webpage');
+var body = $('body');
+h1.appendTo(body);
+```
+
+### `append`
+This code does the same as the code above.
+
+```javascript
+var h1 = $('<h1>').text('My Webpage');
+var body = $('body');
+body.append(h1);
+```
+
+## Prepend
+Same functionality as `append`, but inserts it as the **first** element in the parent.
+### `prependTo`
+### `prepend`
+
+
+## insertBefore & insertAfter
+```html
+<div class="container">
+  <h2>Greetings</h2>
+  <div class="inner">Hello</div>
+  <div class="inner">Goodbye</div>
+</div>
+```
+```javascript
+$( "<p>Test</p>" ).insertAfter( ".inner" );
+```
+```html
+<div class="container">
+  <h2>Greetings</h2>
+  <div class="inner">Hello</div>
+  <p>Test</p>
+  <div class="inner">Goodbye</div>
+  <p>Test</p>
+</div>
+```
+-----------------------------
+```javascript
+//Insert a new li at the 5th position.
+$( "<li>Test</li>" ).insertAfter( "li:nth-child(4)" );
+```
+
+# Removing elements from the dom
+## `remove`
+```javascript
+$('#deleteMe').remove();
+```
+
+## `unattach`
+Unattach removes the element from the DOM, but does not delete it.
+That way, we can save it in a variable, and reattach (append, prepend, insert, etc) it later.
+```javascript
+var keepForLater = $('#keepMe').unattach();
+```
 
 
 
 
--------------------------------------
+# Inputs: A quick look at forms
 
-## Document Ready
+```html
+<!-- Notice: No closing tag -->
+<input>
+```
 
-## Attributes
-Object as param
+## Input Types
+`type` attribute
 
-### Aside: jQuery getters and setters
+```html
+<!-- the default -->
+<input type="text">
+```
 
-Setters return jQuery object for chaining
+```html
+<!-- hides the text entered into it -->
+<input type="password">
+```
 
-### .data
+## Accessing Input Values via jQuery
 
-## .html and .text
+```html
+<input type="text" id="userName" placeholder="User Name">
+```
 
+```javascript
+//Get whatever has been typed into the #userName element.
+var userNameValue = $('#userName').val();
+```
 
-## Manipulating elements
-### Moving elements
-// Moving elements using different approaches.
- 
-// Make the first list item the last list item:
-var li = $( "#myList li:first" ).appendTo( "#myList" );
- 
-// Another approach to the same problem:
-$( "#myList" ).append( $( "#myList li:first" ) );
- 
-// Note that there's no way to access the list item
-// that we moved, as this returns the list itself.
+`val` is a getter/setter.
 
-### Cloning
-// Making a copy of an element.
- 
-// Copy the first list item to the end of the list:
-$( "#myList li:first" ).clone().appendTo( "#myList" );
+```javascript
+//Enter 'Bob Smith' into the #userName element.
+$('#userName').val('Bob Smith');
+```
 
-## Element traversal
-
-* first
-* eq
-* find
-* parent
+## Project: Ghost login screen
