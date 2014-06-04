@@ -1,6 +1,6 @@
 # jQuery
 
-## Document Ready
+## document.ready
 
 ## `attr`
 
