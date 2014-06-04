@@ -1,3 +1,5 @@
+**The "review" notes at the top of [Day 23](Day-23) actually do a better job of reviewing what we'll do today.**
+
 # jQuery
 
 Das basics.
