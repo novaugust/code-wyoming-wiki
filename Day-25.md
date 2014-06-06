@@ -33,7 +33,7 @@ $( "#myList li:first" ).clone().appendTo( "#myList" );
 
 # Forms
 
-See also [forms.md](//github.com/PitchEngine/code-wyoming/master/Week-5/Day-25/forms.md)
+See also [forms.md](https://github.com/PitchEngine/code-wyoming/blob/master/Week%205/Day-25/forms.md)
 
 
 ## How forms work
