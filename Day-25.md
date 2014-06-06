@@ -33,6 +33,9 @@ $( "#myList li:first" ).clone().appendTo( "#myList" );
 
 # Forms
 
+See also [forms.md](//github.com/PitchEngine/code-wyoming/master/Week-5/Day-25/forms.md)
+
+
 ## How forms work
 Server & Client
 ## The `form` element
