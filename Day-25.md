@@ -32,7 +32,7 @@ $( "#myList li:first" ).clone().appendTo( "#myList" );
 
 
 # Forms
-
+[Convenient form processor / tester](http://www.cs.tut.fi/cgi-bin/run/~jkorpela/echo.cgi?meow=woof)
 See also [forms.md](https://github.com/PitchEngine/code-wyoming/blob/master/Week%205/Day-25/forms.md)
 
 
