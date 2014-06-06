@@ -1,37 +1,15 @@
 # jQuery
 
 ## document.ready
-
-## `attr`
-
-## Manipulating elements
-### Moving elements
-// Moving elements using different approaches.
- 
-// Make the first list item the last list item:
-var li = $( "#myList li:first" ).appendTo( "#myList" );
- 
-// Another approach to the same problem:
-$( "#myList" ).append( $( "#myList li:first" ) );
- 
-// Note that there's no way to access the list item
-// that we moved, as this returns the list itself.
-
-### Cloning
-// Making a copy of an element.
- 
-// Copy the first list item to the end of the list:
-$( "#myList li:first" ).clone().appendTo( "#myList" );
-
-## Element traversal
-
-* first
-* eq
-* find
-* parent
-
 ------------------------------------------------------
 #Forms
+
+
+# Forms
+
+[Convenient form processor / tester](http://www.cs.tut.fi/cgi-bin/run/~jkorpela/echo.cgi)
+
+See also [forms.md](https://github.com/PitchEngine/code-wyoming/blob/master/Week%205/Day-25/forms.md)
 
 ##The Form Element
 
@@ -41,6 +19,14 @@ $( "#myList li:first" ).clone().appendTo( "#myList" );
         Alternatively, use "mailto" to open the user's default email client with your info
 * method: get / post
 * autocomplete: on/off (html5)
+
+#### Method
+
+* get (default)
+    The data sent via get requests is tacked onto the URL sent to the server, separated by a question mark. This is appropriate for allowing users to bookmark the location of what they were sent to. It has a length limit.
+* post
+    Post is best for secure data, like credit cards or other personal info. It's also preferable for sending large amounts of data.
+
 
 ## Form Controls
 
@@ -52,6 +38,15 @@ $( "#myList li:first" ).clone().appendTo( "#myList" );
 * placeholder (html5)
 
 ### Input
+datalist's are cool.
+```html
+<input list="edulevel" type="text" name="education">
+<datalist id="edulevel">
+    <option value="High School">
+    <option value="Bachelors">
+</datalist>
+```
+
 
 ##### Input "type"
 * text (default)
@@ -62,7 +57,17 @@ $( "#myList li:first" ).clone().appendTo( "#myList" );
 * reset
 * submit
 * button
-* email (html5)
+* file
+
+###### Html5 Input Types
+* email
+* search
+* tel
+* url
+* date
+* time
+* number
+* color
 
 #### Radio, Checkbox
 
@@ -71,27 +76,26 @@ $( "#myList li:first" ).clone().appendTo( "#myList" );
 #### Buttons
 In ye old times, inputs were used as buttons. Now, we have the button element.
 
-type
+##### type
 The type of the button. Possible values are:
-submit: The button submits the form data to the server. This is the default if the attribute is not specified, or if the attribute is dynamically changed to an empty or invalid value.
-reset: The button resets all the controls to their initial values.
-button: The button has no default behavior. It can have client-side scripts associated with the element's events, which are triggered when the events occur.
-
-Value is the text to be shown on the btn
+* *submit*: The button submits the form data to the server. This is the default if the attribute is not specified, or if the attribute is dynamically changed to an empty or invalid value.
+* *reset*: The button resets all the controls to their initial values.
+* *button*: The button has no default behavior. It can have client-side scripts associated with the element's events, which are triggered when the events occur.
 
 
 ### Textarea
-opens & closes!
+Has opening and closing tags, good for large bodies of text.
 
 ### Select & Option
 ####Select
 
 * name
-* visible (defaults to 1)
+* size (defaults to 1)
+* `<select>` has the name attribute
+* `<option>`s each have a value
+* Text for each option goes between its 
+* `<optgroup>` can be used to group options together. use `label` attribute to give them a name.
 
-* Select has the name
-* Options have the values
-* Text inside option is displayed to user
 
 ## Label
 Uses "for" to link to IDs of form controls
@@ -101,76 +105,3 @@ Uses "for" to link to IDs of form controls
 Groups fields together in a lovely box
 ### Legend
 A heading for each fieldset. Should be the first thing in a fieldset (it's optional though)
-
--------------------------------------------------------
-# Forms
-[Convenient form processor / tester](http://www.cs.tut.fi/cgi-bin/run/~jkorpela/echo.cgi?meow=woof)
-See also [forms.md](https://github.com/PitchEngine/code-wyoming/blob/master/Week%205/Day-25/forms.md)
-
-
-## How forms work
-Server & Client
-## The `form` element
-### Form Attributes
-#### Action
-
-#### Method
-
-* get (default)
-   The data sent via get requests is tacked onto the URL sent to the server, separated by a question mark. This is appropriate for allowing users to bookmark the location of what they were sent to. It has a length limit.
-* post
-    Post is best for secure data, like credit cards or other personal info. It's also preferable for sending large amounts of data.
-
-## Variables Names and Values
-* name
-* value
-
-## Form controls
-### Common Attributes
-* name
-* value
-* placeholder (html5)
-
-### Input
-
-```html
-<input list="edulevel" type="text" name="education">
-<datalist id="edulevel">
-    <option value="High School">
-    <option value="Bachelors">
-</datalist>
-```
-
-#### Types
-
-* password
-* search (5)
-* email (5)
-* tel (5)
-* url (5)
-* submit
-* reset
-* file
-* hidden
-* date 5
-* time 5
-* number
-* color
-
-##### Radio
-##### Checkbox
-
-### Dropdowns (select)
-
-* `optgroup`
-
-### Textarea
-
-## Labels
-
-## Fieldset & legend
-
-## Styling forms
-
-
-# Accessing forms with javascript
