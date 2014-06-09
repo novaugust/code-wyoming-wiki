@@ -17,22 +17,23 @@
 * Media Queries
 * Bleeding-Edge CSS
 
-[Week 4: Frameworks & Javascript](Week-4)
+[Week 4: Frameworks & Web Alternatives](Week-4)
 --------
 * Frameworks
 * Bootstrap
-* Forms
-* Javascript & jQuery
-
-[Week 5: Advanced Web](Week-5)
---------
+* LESS CSS
 * SEO
-* LESS
+* HTML5 `video` and `audio`
+
+[Week 5: Javascript & jQuery](Week-5)
+--------
+* Forms
+* Javascript
 * jQuery
 
-[Week 6: TBD](Week-6)
+[Week 6: Advanced Javscript & jQuery](Week-6)
 ----------
-* Advanced Javascript Concepts
+* More jQuery
 * Forms
 * AJAX
 
