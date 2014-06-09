@@ -3,10 +3,10 @@
 See [mdn form styling guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Styling_HTML_forms) and mdn [advanced form styling](
 ## Form Pseudo-Classes
 
-* `:checked:`
-* `:enabled:`
-* `:disabled:`
-* `:invalid:`
+* `:checked`
+* `:enabled`
+* `:disabled`
+* `:invalid`
 * `:valid`
 * `:focus`
 
