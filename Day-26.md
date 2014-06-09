@@ -1,3 +1,20 @@
+# Styling Forms
+
+See [mdn form styling guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Styling_HTML_forms) and mdn [advanced form styling](
+
+### `:checked` and the `+` selector
+
+### `[type=...]`
+
+### search boxes
+Don't ask me. Just do it.
+```css
+input[type=search] {
+-webkit-appearance: none;
+}
+```
+
+
 # more jQuery
 
 
