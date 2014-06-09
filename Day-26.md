@@ -44,10 +44,14 @@ button, input, select, textarea {
 // Moving elements using different approaches.
  
 // Make the first list item the last list item:
+```javascript
 var li = $( "#myList li:first" ).appendTo( "#myList" );
+```
  
 // Another approach to the same problem:
+```javascript
 $( "#myList" ).append( $( "#myList li:first" ) );
+```
  
 // Note that there's no way to access the list item
 // that we moved, as this returns the list itself.
@@ -56,7 +60,9 @@ $( "#myList" ).append( $( "#myList li:first" ) );
 // Making a copy of an element.
  
 // Copy the first list item to the end of the list:
+```javascript
 $( "#myList li:first" ).clone().appendTo( "#myList" );
+```
 
 ## Element traversal
 
