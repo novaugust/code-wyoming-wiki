@@ -29,11 +29,12 @@
 * SEO
 * LESS
 * jQuery
-* AJAX
 
 [Week 6: TBD](Week-6)
 ----------
-* TBD
+* Advanced Javascript Concepts
+* Forms
+* AJAX
 
 [Week 7: Web Servers](Week-7)
 --------
