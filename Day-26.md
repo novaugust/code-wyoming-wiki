@@ -2,7 +2,9 @@
 
 See [mdn form styling guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Styling_HTML_forms) and mdn [advanced form styling](
 
-### `:checked` and the `+` selector
+### `:checked`, the `+` selector, and `<label>`
+
+### `:focus`
 
 ### `[type=...]`
 
@@ -14,6 +16,13 @@ input[type=search] {
 }
 ```
 
+### font normalizing
+```css
+button, input, select, textarea {
+  font-family : inherit;
+  font-size   : 100%;
+}
+```
 
 # more jQuery
 
