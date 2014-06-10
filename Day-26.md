@@ -32,6 +32,7 @@ span.checkbox {
     background-color: black;
     cursor: pointer;
 }
+/* the magic */
 input:checked + span.checkbox {
     background-image: url(checkmark.gif);
 }
