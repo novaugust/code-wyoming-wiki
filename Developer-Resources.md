@@ -1,10 +1,5 @@
 [Codrops](http://tympanus.net/codrops/) inspirational code
 
-Colors
--------------
-[Color Scheme Designer](http://colorschemedesigner.com/)
-
-
 Images
 --------------
 ### Free, High Resolution
