@@ -148,7 +148,7 @@ After you're done using a custom query, reset everything back to the original, u
 
 
 
-# Guest Speaker: Brian Modena of [TMBR](//wearetmbr.com)
+# Guest Speaker: Brian Modena of [TMBR](http://wearetmbr.com)
 
 
 Here is a quick outline - 
