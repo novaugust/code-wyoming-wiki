@@ -5,8 +5,6 @@
 * [Day 40](Day-40) 
 
 
-# Coming Up
-
 ## Advanced Javascript (Finishing Javascript)
 
 ### Data Structures
@@ -23,7 +21,7 @@
 * npm
 * express
 
-### Ghost Themes
+### [Ghost](http://ghost.org) [Themes](http://docs.ghost.org/themes/)
 * install ghost for development
 * ghost > wp
 
