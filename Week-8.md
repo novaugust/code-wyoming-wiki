@@ -17,6 +17,12 @@
 * arrays
 * functions *maybe*
 
+### loops
+* while
+* for
+* for in
+* foreach utils
+
 ### NodeJS
 * npm
 * express
