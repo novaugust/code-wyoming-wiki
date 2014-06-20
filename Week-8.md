@@ -23,6 +23,8 @@
 * for in
 * foreach utils
 
+## Node & Ghost
+
 ### NodeJS
 * package.json
 * npm
@@ -32,8 +34,10 @@
 * install ghost for development
 * ghost > wp
 
+## Super Advanced JS
 ### AJAX
 * submitting forms w/o page reload
 * getting new content and adding it to the page
 
 ### AngularJS
+* Seriously? Are we really going to do this? Guys????
