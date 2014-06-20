@@ -24,6 +24,7 @@
 * foreach utils
 
 ### NodeJS
+* package.json
 * npm
 * express
 
