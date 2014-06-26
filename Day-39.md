@@ -92,6 +92,18 @@ with can be used like so
 </div>
 ```
 
+##### Templating: Layouts & Partials.
+
+There is a special tag, `{{{body}}}`, that means "this is where code from pages that extend me should go".
+
+###### Using Layouts
+Pages can specify that they use a layout (a layout is a file that has the `{{{body}}}` tag) by having the first line of the file be `{{!< the-layout-name}}`
+
+###### Using Partials
+With ghost, you can create a `partials` directory (more on that below) and put in there code that you use over and over (by now, we're all cool with the idea of partials, right?)
+
+To insert code from a partial, you use `{{> the-partial-name}}`. If you have a nested folder structure in your partials folder, you can access the files by `{{> folder-name/partial-name}}`.
+
 #### Theme Folder Structure
 
 ```
@@ -114,3 +126,38 @@ with can be used like so
 >The default template contains the handlebars expression {{{body}}} to denote where the content from templates which extend the default template goes.
 
 >Page templates then have {{!< default}} as the very first line to specify that they extend the default template, and that their content should be placed into the place in default.hbs where {{{body}}} is defined.
+
+
+##### index.hbs
+
+>This is the template for the homepage, and extends default.hbs. The homepage gets passed a list of posts which should be displayed, and index.hbs defines how each posts should be displayed.
+
+>In Casper (the current default theme), the homepage has a large header which uses `@blog` global settings to output the blog logo, title and description. This is followed by using the `{{#foreach}}` helper to output a list of the latest posts.
+
+##### post.hbs
+
+> This is the template for a single post, which also extends default.hbs.
+
+> In Casper (the current default theme), the single post template has it's own header, also using `@blog` global settings and then uses the `{{#post}}` data accessor to output all of the post details.
+
+##### page.hbs
+
+Like wordpress, ghost differentiates between blog posts and pages, like an "about" page or a "contact me" page.
+
+>You can optionally provide a page template for static pages. If your theme doesn't have a page.hbs template, Ghost will use the standard post.hbs template for pages.
+
+>Pages have exactly the same data available as a post, they simply don't appear in the list of posts.
+
+>If you want to have a custom template for a specific page you can do so by creating a template with the name `page-{{slug}}.hbs`. For example if you have a page called 'About' that lives at `/about/` then you can add a template called ``page-about.hbs`` and this template will be used to render only the about page.
+
+That last paragraph is fairly crucial, in my opinion!
+
+###### Let's get serious here
+
+At this point, I'm pretty much just copying and pasting from the Ghost Guide. Let's just go over it together in class! [Guide](http://docs.ghost.org/themes/)
+
+After that, I think the best way to get a feel for how a theme comes together is to look at examples of how it's already been done. So let's look at the code for the `Casper` theme, the default theme included in every ghost install. 
+
+After that, check out Ghostium, a really well put together theme available for free on GitHub that shows off a bit more complexity in its use of partials for customization. [Ghostium](https://github.com/oswaldoacauan/ghostium)
+
+
