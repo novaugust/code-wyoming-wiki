@@ -94,6 +94,8 @@ with can be used like so
 
 ##### Templating: Layouts & Partials.
 
+Ghost doesn't use vanilla handlebars though, because handlebars was originally developed to be used as a client-side script. Ghost uses a server version that adds in some nice features like layouts and partials called [Express Hbs](https://github.com/barc/express-hbs#syntax)
+
 There is a special tag, `{{{body}}}`, that means "this is where code from pages that extend me should go".
 
 ###### Using Layouts
