@@ -17,6 +17,12 @@ From here on, if you ever need to get Ghost up and running, do a `grunt dev`. Th
 
 Ghost works with two "branches" at any one time. `master`, which is where active development is occuring and which is *not* safe (ie, don't use it on a production server - your data could break) or standardized, and then a "tagged" version, which will look like `0.x.x`.
 
+#### Ghost Versions
+
+Type `git tag` to see a list of every tagged version of Ghost in the repository.
+
 Right now, `0.4.2` is the production version of Ghost. Work is being done to move to version `0.5.0` sometime in early July.
 
 In this class, we're going to develop themes for `0.4.2` since `0.5.0` is still up in the air. Keep in mind that if you release a theme for a certain version of Ghost, it's up to you to make sure it will work with future versions as well!
+
+Since we want to work with `0.4.2`, type `git checkout 0.4.2` and the code in the repository will switch over to the older `0.4.2` code (by default, we're looking at the latest master version).
