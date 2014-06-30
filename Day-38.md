@@ -1,1 +1,1 @@
-# [Angular JS](angularjs.com)
+# [Angular JS](http://angularjs.com)
