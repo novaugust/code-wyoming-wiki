@@ -7,3 +7,7 @@
 # Wordpress
 
 This week is all about [WordPress Themes](wordpress.org).
+
+## Servers
+
+WordPress is a website framework built on php. We use wordpress as a chance to finally look into putting our code live on the web.
