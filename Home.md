@@ -1,7 +1,6 @@
 # Welcome
 Welcome to the Code Wyoming wiki!
 
-## T.O.C.
 This is where we keep:
 
 1. The course's weekly [Agenda](Agenda)
