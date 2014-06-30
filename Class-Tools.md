@@ -1,6 +1,5 @@
 [Google Chrome][Chrome]
 ==================
-![](https://raw.githubusercontent.com/PitchEngine/code-wyoming/wiki/images/chrome.jpg)
 A browser with powerful developer tools that help us see inside our code.
 
 [Brackets][Brackets]
